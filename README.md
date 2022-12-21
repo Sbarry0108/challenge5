@@ -1,4 +1,7 @@
-challenge5
+image.png
+image.png
+
+Work Day Scheduler
 
 05 Third-Party APIs: Work Day Scheduler
 
@@ -9,7 +12,3 @@ This app runs in the browser and features dynamically updated HTML and CSS power
 This app is using API moment.js
 
 Repository Link
-https://github.com/Sbarry0108/challenge5
-
-Website Link
-https://sbarry0108.github.io/challenge5/
