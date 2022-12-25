@@ -12,5 +12,7 @@ This is a simple calendar application that allows the user to save events for ea
 This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 This app is using API moment.js
 
-Repository Link
+Repository Links
  https://sbarry0108.github.io/work-day-scheduler/
+ 
+ https://github.com/Sbarry0108/work-day-scheduler
